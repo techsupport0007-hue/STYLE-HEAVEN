@@ -1,0 +1,6 @@
+node_modules/
+server/.env
+server/style-heaven.db
+server/style-heaven.db-shm
+server/style-heaven.db-wal
+.env
